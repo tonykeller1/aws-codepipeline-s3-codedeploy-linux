@@ -1,0 +1,44 @@
+<master version="5.3" minAllowVersion="5.3" ID="58635FCB-6D4B-4C94-8072-3AD7857F9A62">
+  <controls>
+    <control controlID="E2B197D0-529A-46EA-84F7-45836ACD7240" controlTypeID="Master" x="832" y="304" w="148" h="42" zOrder="118" masterID="58635FCB-6D4B-4C94-8072-3AD7857F9A62">
+      <groupChildrenDescriptors>
+        <control controlID="7DBA6BF9-BD1E-48B8-BDDA-E2B88AF1ECC2" controlTypeID="__group__" x="0" y="0" w="148" h="42" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="CE18D835-1772-44A4-9BA6-D3CF7CC9551B" controlTypeID="Shape" x="99" y="0" w="49" h="42" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <lineSpacing>18</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="EB8BD29E-AF85-43D5-B939-E8402D4B7DFD" controlTypeID="Shape" x="0" y="0" w="101" h="42" zOrder="1">
+              <color>4291611852</color>
+              <borderVisible>False</borderVisible>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <lineSpacing>18</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3A22012C-3A22-42F3-8054-9A89C7237609" controlTypeID="TextArea" x="19" y="12" w="62" h="18" zOrder="2">
+              <color>0</color>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>San+Jos%C3%A9</text>
+              <textColor>4284900966</textColor>
+              <lineSpacing>18</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="8E90AC31-3F8C-4F64-B6F6-A19C8805AE99" controlTypeID="Icon" x="104" y="1" w="40" h="40" zOrder="3">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62582</iconCode>
+              </icon>
+              <URL>6971FD886B5AC2772A413554ACCB2FEA.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

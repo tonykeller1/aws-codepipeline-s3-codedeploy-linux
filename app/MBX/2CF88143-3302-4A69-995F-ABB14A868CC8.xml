@@ -1,0 +1,524 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="2CF88143-3302-4A69-995F-ABB14A868CC8" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="61">
+    <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
+      <caption>Logo</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0080A5DF-E6AC-46DE-8777-AED2C99EF4E2" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{D5A34D2E-D407-44D1-ABCF-D1E0FB667482}" coords="(0,0,302,100)"/>
+        </link>
+      </links>
+      <URL>3700FBC303783E34B800065B24D011B9.JPG</URL>
+    </control>
+    <control controlID="44AF800D-F695-4721-BA35-C79FA80F014C" controlTypeID="Tabs" x="302" y="0" w="1043" h="100" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{6871F3D6-B2C7-4C6E-AEEB-3637F72CA8D4}" coords="(0,0,114.888885498047,100)"/>
+        </link>
+        <link targetPageID="D9007640-8658-432C-BED5-5C83CFAC8119" linkType="ltPageLink" isApplyIncludePage="False" title="Products">
+          <area shape="0" alt="" ID="{F3C87C87-CD98-47D5-911A-BDB31190A0F9}" coords="(115.888885498047,0,230.777770996094,100)"/>
+        </link>
+        <link targetPageID="2CDFFBF2-F5B4-4081-9C9C-1F1B18B318B9" linkType="ltPageLink" isApplyIncludePage="False" title="Education">
+          <area shape="0" alt="" ID="{13F32D4F-3F6B-4DD6-A7C3-D2C33BDAA998}" coords="(231.777770996094,0,346.666656494141,100)"/>
+        </link>
+        <link targetPageID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
+          <area shape="0" alt="" ID="{C51E3A01-896F-46CE-82CB-B0D61FA6D6B4}" coords="(347.666656494141,0,462.555541992188,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+          <area shape="0" alt="" ID="{3CE264BC-5C01-4840-999C-77AA0F5217D0}" coords="(463.555541992188,0,578.444458007813,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+          <area shape="0" alt="" ID="{D5E39962-44B2-490D-905F-03117256E2EF}" coords="(579.444458007813,0,694.333374023438,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{F2C3EE13-8027-4E63-A8C2-CA7111E1AEBD}" coords="(695.333374023438,0,810.222290039063,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{16738DA4-40FE-444F-8237-5F7701F84862}" coords="(811.222290039063,0,926.111206054688,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Robert+Pereira">
+          <area shape="0" alt="" ID="{B3ADDC0C-4F4A-4901-9402-8765125CCD63}" coords="(927.111206054688,0,1042.00012207031,100)"/>
+        </link>
+      </links>
+      <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+      <text>Dashboard%2CProducts%2CEducation%2CPipeline%2CHoldings%2CAbout%2C%2C%2CRobert+Pereira</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <dividerPercentHeight>0</dividerPercentHeight>
+    </control>
+    <control controlID="FABB6461-6B16-4C0F-8C00-6891D3C26A01" controlTypeID="ScrollView" x="0" y="100" w="1400" h="980" zOrder="2">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="AA14CAB7-6E7E-4513-AE00-312A0C181893" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1400" h="2207" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="CA6776D8-63BD-4003-9D1F-4E65852A0CB7" controlTypeID="Icon" x="70" y="1647" w="24" h="24" zOrder="0">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+              </states>
+              <icon>
+                <ID/>
+                <iconFontName>jdFontAwesome</iconFontName>
+                <iconCode>61570</iconCode>
+              </icon>
+              <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
+            </control>
+            <control controlID="5944B618-C40D-4123-9B06-7CD48254FA76" controlTypeID="Icon" x="137" y="1647" w="24" h="24" zOrder="1">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+              </states>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62019</iconCode>
+              </icon>
+              <URL>6E397F998770B38A343BB5B849DF19E9.svg</URL>
+            </control>
+            <control controlID="2319294F-A274-46A5-A400-0F71E37AB57D" controlTypeID="Icon" x="204" y="1647" w="24" h="24" zOrder="2">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+              </states>
+              <icon>
+                <ID/>
+                <iconFontName>jdIcoMoonFree</iconFontName>
+                <iconCode>60050</iconCode>
+              </icon>
+              <URL>2DA8D388257A0D980CD8471C8D086AEA.svg</URL>
+            </control>
+            <control controlID="6C76EEE2-7765-4C6C-B564-028B96E69B40" controlTypeID="Icon" x="271" y="1647" w="24" h="24" zOrder="3">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+              </states>
+              <icon>
+                <ID/>
+                <iconFontName>jdFontAwesome</iconFontName>
+                <iconCode>61652</iconCode>
+              </icon>
+              <URL>282331BE75C40FB6D299F787B7BFD38F.svg</URL>
+            </control>
+            <control controlID="554574BB-24E3-4E69-AC88-DC846C1137F3" controlTypeID="Icon" x="337" y="1647" w="24" h="24" zOrder="4">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+              </states>
+              <icon>
+                <ID/>
+                <iconFontName>jdFontAwesome</iconFontName>
+                <iconCode>61651</iconCode>
+              </icon>
+              <URL>C03E118DCE542109EE89927B363431D9.svg</URL>
+            </control>
+            <control controlID="C5868D15-1219-4488-AC79-E163345C870B" controlTypeID="Label" x="428" y="1651" w="107" h="19" zOrder="5">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Join+our+email+list</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E31FDE76-C65D-4B08-BE94-207CB67E91FB" controlTypeID="Label" x="428" y="1702" w="685" h="19" zOrder="6">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>By+clicking+%22GET+STARTED%22+I+agree+to+receive+news%2C+promotions%2C+information%2C+and+offers+from+Starbucks.+See+our</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E4B18E58-5D4A-4D8F-B653-69981D457374" controlTypeID="Label" x="554" y="1728" w="26" h="19" zOrder="7">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>+and+</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B5D374C6-3068-43FB-80FC-B6C72237BA6E" controlTypeID="TextInput" x="586" y="1647" w="252" h="36" zOrder="8">
+              <borderColor>4288256409</borderColor>
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Email+address</text>
+              <textColor>4291611852</textColor>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="37B2D709-2302-44E5-9640-48476113543E" controlTypeID="TextInput" x="868" y="1647" w="143" h="36" zOrder="9">
+              <borderColor>4288256409</borderColor>
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Zip+code</text>
+              <textColor>4291611852</textColor>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C64BB728-FF76-4696-990B-4E208DF9DF6E" controlTypeID="Button" x="1028" y="1647" w="145" h="36" zOrder="10">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Get+Started</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>4</radius>
+            </control>
+            <control controlID="8B8EC347-A4B4-49FD-A243-1AAD7637BD44" controlTypeID="Link" x="428" y="1728" w="110" h="19" zOrder="11">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="70" varType="4"/>
+              </states>
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Privacy+Statement</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="0BBC3106-2189-4B5B-AFD4-12B43E3224C9" controlTypeID="Link" x="592" y="1728" w="107" h="19" zOrder="12">
+              <states>
+                <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="70" varType="4"/>
+              </states>
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Customer+Service</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="12342F99-24CD-44AB-A4D5-512D25B28AE1" controlTypeID="__group__" x="118" y="1805" w="119" h="129" zOrder="13">
+              <groupChildrenDescriptors>
+                <control controlID="8CBB4DEC-18B1-4B7F-BD40-E3BCDBAA1E3F" controlTypeID="Label" x="0" y="0" w="61" h="19" zOrder="0">
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="" weight="700" isBold="True" isItalic="False"/>
+                  <text>About+Us</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="939392CF-61F0-4257-BF22-81BEB551CD9D" controlTypeID="Label" x="0" y="32" w="86" h="19" zOrder="1">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Our+Company</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="44740309-DE57-4E30-B95A-D8714EA5C21E" controlTypeID="Label" x="0" y="71" w="109" h="19" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Investor+Relations</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="99413D4D-6019-444C-A422-DDBCF686DF6C" controlTypeID="Label" x="0" y="110" w="66" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Newsroom</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="152CA557-BC32-4FF4-9232-48D315E2F2A4" controlTypeID="__group__" x="334" y="1805" w="211" h="285" zOrder="14">
+              <groupChildrenDescriptors>
+                <control controlID="8C71B37E-A753-4B19-874F-15D68022DFE2" controlTypeID="Label" x="1" y="0" w="90" h="19" zOrder="0">
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="" weight="700" isBold="True" isItalic="False"/>
+                  <text>Career+Center</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D41EBBF2-9C55-421B-8B26-F583C59558E2" controlTypeID="Label" x="0" y="32" w="130" h="19" zOrder="1">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Working+at+Starbucks</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D5B7FF76-A30C-4844-965A-5415DAEEA57C" controlTypeID="Label" x="0" y="71" w="76" h="19" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>College+Plan</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D061AA0E-FEDA-4926-B5AA-E05CE81E9740" controlTypeID="Label" x="0" y="110" w="100" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Current+Partners</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="32F7582C-3E36-4B07-BB14-0DE050F4628C" controlTypeID="Label" x="0" y="149" w="112" h="19" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Corporate+Careers</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="3783C302-D216-4DA9-A591-A9BDBB383812" controlTypeID="Label" x="0" y="188" w="193" h="19" zOrder="5">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Manufacturing+and+Distribution</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="CAF44835-2563-4CB6-8901-FDBB2E3EC49C" controlTypeID="Label" x="0" y="227" w="83" h="19" zOrder="6">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Retail+Careers</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="E06FA232-ACE1-42F2-B71D-82D0A003BAF1" controlTypeID="Label" x="0" y="266" w="128" h="19" zOrder="7">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>International+Careers</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="DABEB12C-7B4A-4C8A-969B-A359F3378331" controlTypeID="__group__" x="642" y="1805" w="211" h="285" zOrder="15">
+              <groupChildrenDescriptors>
+                <control controlID="5FE08029-81BE-4D1A-A031-47D4F81144B0" controlTypeID="Label" x="0" y="0" w="81" h="19" zOrder="0">
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="" weight="700" isBold="True" isItalic="False"/>
+                  <text>For+Business</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="807508D0-BE04-44A1-963D-728C0672998B" controlTypeID="Label" x="1" y="32" w="80" h="19" zOrder="1">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Office+Coffee</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="5279108C-B6A0-45C3-ADF9-DC6EF833FA53" controlTypeID="Label" x="1" y="71" w="184" h="19" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Starbucks+Coffee+International</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="C700005C-E820-42ED-9DDB-9471D6A267CC" controlTypeID="Label" x="1" y="110" w="73" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Foodservice</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="275AD5CF-DEF2-4770-912E-C9E80FED0B5E" controlTypeID="Label" x="1" y="149" w="95" h="19" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Licensed+Stores</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="B94D7157-0CB0-482A-B38B-3214FE952D93" controlTypeID="Label" x="1" y="188" w="192" h="19" zOrder="5">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Starbucks+Card+Corporate+Sales</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="90969A7D-7DD6-43B7-922A-6C918FB18079" controlTypeID="Label" x="1" y="227" w="153" h="19" zOrder="6">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Landlord+Support+Center</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D4B46AA8-C2BF-494A-96A3-7E3BE4EA1313" controlTypeID="Label" x="1" y="266" w="56" h="19" zOrder="7">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Suppliers</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="07411992-160A-43A2-992B-D778D9005D07" controlTypeID="__group__" x="950" y="1805" w="132" h="285" zOrder="16">
+              <groupChildrenDescriptors>
+                <control controlID="96354D93-E43C-4EC4-A682-8CD5B37E4B81" controlTypeID="Label" x="0" y="0" w="124" h="19" zOrder="0">
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="" weight="700" isBold="True" isItalic="False"/>
+                  <text>Online+Community</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="961C5AB5-DF34-4C45-8061-EB0A1E57DFE4" controlTypeID="Label" x="0" y="32" w="42" h="19" zOrder="1">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Twitter</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="AF1BD9DC-6133-4D46-8BA0-31EFAB7CFB65" controlTypeID="Label" x="0" y="71" w="59" h="19" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Facebook</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="2A46A250-918D-4466-8B21-03CC4EA1D9A3" controlTypeID="Label" x="0" y="110" w="61" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Instagram</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="80D8310E-0CA3-4FA8-AB39-85CE67519DBD" controlTypeID="Label" x="0" y="149" w="51" h="19" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>LinkedIn</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="11F0B5B5-3802-4502-85F7-61605B1DE9C9" controlTypeID="Label" x="0" y="188" w="54" h="19" zOrder="5">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Pinterest</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="529B5634-7607-4007-B21A-050674CE8FEC" controlTypeID="Label" x="0" y="227" w="53" h="19" zOrder="6">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>YouTube</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="7270192E-3304-4B44-A4FD-BD8B94591EE7" controlTypeID="Label" x="0" y="266" w="112" h="19" zOrder="7">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>My+Starbucks+Idea</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="A5B35F82-9C29-46FB-967A-AEBE43E7D957" controlTypeID="__group__" x="1179" y="1805" w="116" h="168" zOrder="17">
+              <groupChildrenDescriptors>
+                <control controlID="1DC9470E-350D-4C9D-96C1-A50EA0CC389E" controlTypeID="Label" x="1" y="0" w="75" h="19" zOrder="0">
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="" weight="700" isBold="True" isItalic="False"/>
+                  <text>Quick+Links</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="C9FECB50-2AF1-4477-9626-9403E966F59A" controlTypeID="Label" x="0" y="32" w="74" h="19" zOrder="1">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>My+Account</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="2E7BC85E-910B-4BE5-AA33-32477213847F" controlTypeID="Label" x="0" y="71" w="82" h="19" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Store+Locator</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="FAFA2AAA-88CC-48B4-83AA-5EF6BE098856" controlTypeID="Label" x="0" y="110" w="83" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Nutrition+Info</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="9BAAE8FA-1FAE-4059-9598-130E0D394BA4" controlTypeID="Label" x="0" y="149" w="107" h="19" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+                  <text>Customer+Service</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="07B1E674-5505-415E-9800-CF93AC8E41BE" controlTypeID="LinkBar" x="118" y="2151" w="498" h="19" zOrder="18">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>Web+Accessibility%2CPrivacy+Policy%2CTerms+of+Use%2CContact+Us%2CPartners%2CSite+Map</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+            </control>
+            <control controlID="90CFF0DB-4E36-423F-B838-E51418061D82" controlTypeID="Label" x="118" y="2180" w="308" h="19" zOrder="19">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+              <text>%C2%A9+2018+Starbucks+Corporation.+All+rights+reserved.</text>
+              <textColor>4291611852</textColor>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D139B225-FD88-4F14-99D7-5132EAB09627" controlTypeID="Label" x="34" y="10" w="169" h="43" zOrder="20">
+              <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91_%26_Bold+Italic" postScript="" weightStyle="" weight="700" isBold="True" isItalic="True"/>
+              <text>Dashboard</text>
+              <textSize>32</textSize>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold,fsItalic]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D68C3016-05BD-4A93-84F1-030F98D21477" controlTypeID="Image" x="1155" y="53" w="153" h="815" zOrder="21">
+              <URL>F3FC6DBFA0D562A1DEC6EBDE6D214FA1.JPG</URL>
+            </control>
+            <control controlID="F8BE7118-CD38-4606-90EA-F80F10780A19" controlTypeID="Image" x="32" y="53" w="1123" h="815" zOrder="22">
+              <URL>4C67F202B3EB95F3A1C7825BDBE7686E.JPG</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9CC9070C-B471-4B5B-95B5-D91E3F7B8986" controlTypeID="Border" x="0" y="0" w="1400" h="980" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

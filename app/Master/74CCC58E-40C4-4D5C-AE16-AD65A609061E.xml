@@ -1,0 +1,16 @@
+<master version="5.3" minAllowVersion="5.3" ID="74CCC58E-40C4-4D5C-AE16-AD65A609061E">
+  <controls>
+    <control controlID="1308BAD5-2018-4C5B-BF31-B18AF6F574C1" controlTypeID="Master" x="460" y="184" w="69" h="21" zOrder="67" masterID="74CCC58E-40C4-4D5C-AE16-AD65A609061E">
+      <groupChildrenDescriptors>
+        <control controlID="FEFD7E3C-35F2-4D86-8C91-463CDF587777" controlTypeID="Shape" x="0" y="0" w="69" h="21" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <opacity>0.5</opacity>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>18</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

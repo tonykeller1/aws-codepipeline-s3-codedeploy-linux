@@ -1,0 +1,17 @@
+<master version="5.3" minAllowVersion="5.3" ID="C47F1307-AA27-47BE-A9C4-0CBF71A64DC5">
+  <controls>
+    <control controlID="0C948C58-5C5F-41DF-A32D-B303AD267A0F" controlTypeID="Master" x="386" y="123" w="53" h="16" zOrder="20" masterID="C47F1307-AA27-47BE-A9C4-0CBF71A64DC5">
+      <groupChildrenDescriptors>
+        <control controlID="AB3942BB-8DE5-4290-BCD4-86E3305FFABD" controlTypeID="Label" x="0" y="0" w="53" h="16" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Business</text>
+          <textColor>4294967295</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>16</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

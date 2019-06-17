@@ -1,0 +1,78 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="D9007640-8658-432C-BED5-5C83CFAC8119" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
+      <caption>Logo</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0080A5DF-E6AC-46DE-8777-AED2C99EF4E2" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{D96205DE-82ED-4C98-B3BE-39D9F0F001F3}" coords="(0,0,302,100)"/>
+        </link>
+      </links>
+      <URL>3700FBC303783E34B800065B24D011B9.JPG</URL>
+    </control>
+    <control controlID="44AF800D-F695-4721-BA35-C79FA80F014C" controlTypeID="Tabs" x="302" y="0" w="1043" h="100" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2CF88143-3302-4A69-995F-ABB14A868CC8" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{D47BC7EF-1F67-43F9-97CF-FD46F71D6BCD}" coords="(0,0,114.888885498047,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Products">
+          <area shape="0" alt="" ID="{87068300-7E9D-495D-B7A1-88B212B3C826}" coords="(115.888885498047,0,230.777770996094,100)"/>
+        </link>
+        <link targetPageID="2CDFFBF2-F5B4-4081-9C9C-1F1B18B318B9" linkType="ltPageLink" isApplyIncludePage="False" title="Education">
+          <area shape="0" alt="" ID="{798C8530-277A-41C6-9B69-3940050B2EDE}" coords="(231.777770996094,0,346.666656494141,100)"/>
+        </link>
+        <link targetPageID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
+          <area shape="0" alt="" ID="{2DDED772-1539-45AE-96BB-E02B04B4BE77}" coords="(347.666656494141,0,462.555541992188,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+          <area shape="0" alt="" ID="{B4657C7B-3BA3-42E9-A5B8-29E215B9FC88}" coords="(463.555541992188,0,578.444458007813,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+          <area shape="0" alt="" ID="{81B06994-600A-4574-8EE3-ADE317841DC0}" coords="(579.444458007813,0,694.333374023438,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{065A2946-2E43-4920-8DE2-901B28D56ABD}" coords="(695.333374023438,0,810.222290039063,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{B7860393-3309-4973-8E75-DEF9BFD4D357}" coords="(811.222290039063,0,926.111206054688,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Robert+Pereira">
+          <area shape="0" alt="" ID="{9FE6773F-529D-4318-8B79-8EC80136B7FB}" coords="(927.111206054688,0,1042.00012207031,100)"/>
+        </link>
+      </links>
+      <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+      <text>Dashboard%2CProducts%2CEducation%2CPipeline%2CHoldings%2CAbout%2C%2C%2CRobert+Pereira</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>1</selectedIndex>
+      <dividerPercentHeight>0</dividerPercentHeight>
+    </control>
+    <control controlID="08F57125-A745-430C-A2CF-0B29D37253F4" controlTypeID="VSplitter" x="239" y="103" w="10" h="852" zOrder="2"/>
+    <control controlID="F0E4A9F9-355F-47D2-855C-A9FC61561B17" controlTypeID="ScrollView" x="248" y="127" w="1067" h="776" zOrder="3">
+      <groupChildrenDescriptors>
+        <control controlID="0E53D830-D6FC-40B6-BB8D-6B827868F470" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1067" h="776" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors/>
+        </control>
+        <control controlID="C170D0C7-C302-44C3-8327-E7DA4C449C60" controlTypeID="Border" x="0" y="0" w="1067" h="776" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+    <control controlID="BDF910FB-EC17-4390-9B1C-2F90BB4F6F30" controlTypeID="Image" x="249" y="127" w="1039" h="710" zOrder="4">
+      <URL>7F6C818D89384F1EEF1E85F6BA1EF381.JPG</URL>
+    </control>
+    <control controlID="724A4B6C-1117-449D-94D2-39D07A494466" controlTypeID="Image" x="51" y="127" w="178" h="703" zOrder="5">
+      <URL>6900676EB3BF2FDEE7174B645BE15DB6.JPG</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

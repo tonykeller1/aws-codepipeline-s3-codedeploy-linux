@@ -1,0 +1,60 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
+      <caption>Logo</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0080A5DF-E6AC-46DE-8777-AED2C99EF4E2" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{58FF29F4-BD07-4C7D-BFA7-2F9CD2340E57}" coords="(0,0,302,100)"/>
+        </link>
+      </links>
+      <URL>3700FBC303783E34B800065B24D011B9.JPG</URL>
+    </control>
+    <control controlID="44AF800D-F695-4721-BA35-C79FA80F014C" controlTypeID="Tabs" x="302" y="0" w="1043" h="100" zOrder="1">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="2CF88143-3302-4A69-995F-ABB14A868CC8" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{01E5D9FB-DCF1-4147-87F6-AEA351A5C442}" coords="(0,0,114.888885498047,100)"/>
+        </link>
+        <link targetPageID="D9007640-8658-432C-BED5-5C83CFAC8119" linkType="ltPageLink" isApplyIncludePage="False" title="Products">
+          <area shape="0" alt="" ID="{46A77B10-69DD-4FE9-9E4B-A1323DFB6C17}" coords="(115.888885498047,0,230.777770996094,100)"/>
+        </link>
+        <link targetPageID="2CDFFBF2-F5B4-4081-9C9C-1F1B18B318B9" linkType="ltPageLink" isApplyIncludePage="False" title="Education">
+          <area shape="0" alt="" ID="{076F254A-59B2-406B-A87D-30337B285A90}" coords="(231.777770996094,0,346.666656494141,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
+          <area shape="0" alt="" ID="{05819255-78D9-4076-9C6F-748822B810BA}" coords="(347.666656494141,0,462.555541992188,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+          <area shape="0" alt="" ID="{C349FA38-3E25-40EA-862B-A64987B4CFA4}" coords="(463.555541992188,0,578.444458007813,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+          <area shape="0" alt="" ID="{01EC4B0E-AF69-4BAB-8F91-A9621E8215DF}" coords="(579.444458007813,0,694.333374023438,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{9A7F33D6-8A24-457A-B29A-EBF70A3736F7}" coords="(695.333374023438,0,810.222290039063,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{984EA631-70B2-4C2F-9969-C403B01418CA}" coords="(811.222290039063,0,926.111206054688,100)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Robert+Pereira">
+          <area shape="0" alt="" ID="{5E1A8271-7188-4E94-90B1-ED7ACA5A0FAC}" coords="(927.111206054688,0,1042.00012207031,100)"/>
+        </link>
+      </links>
+      <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
+      <text>Dashboard%2CProducts%2CEducation%2CPipeline%2CHoldings%2CAbout%2C%2C%2CRobert+Pereira</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>3</selectedIndex>
+      <dividerPercentHeight>0</dividerPercentHeight>
+    </control>
+    <control controlID="85AC0BFB-A978-4324-84DF-07502E21FC1B" controlTypeID="Image" x="15" y="110" w="1294" h="791" zOrder="2">
+      <URL>5D02815D1EA0CD1C0D521B959D3D9FC8.JPG</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
