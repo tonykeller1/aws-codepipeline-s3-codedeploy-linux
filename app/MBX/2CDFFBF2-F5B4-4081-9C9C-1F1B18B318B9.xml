@@ -24,10 +24,10 @@
         <link targetPageID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
           <area shape="0" alt="" ID="{5DAE674D-7800-4595-BA7A-8AE8E92A24F1}" coords="(347.666656494141,0,462.555541992188,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+        <link targetPageID="A743943E-9B15-426E-8838-C9B56764CEE7" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
           <area shape="0" alt="" ID="{85C8B3F6-76CF-450F-BE56-23B149E744C9}" coords="(463.555541992188,0,578.444458007813,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+        <link targetPageID="90DE2988-E389-47C5-83BA-E31640D79FFF" linkType="ltPageLink" isApplyIncludePage="False" title="About">
           <area shape="0" alt="" ID="{F38A7EB7-7351-47B2-BFFE-0662D353B5DF}" coords="(579.444458007813,0,694.333374023438,100)"/>
         </link>
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
@@ -47,7 +47,7 @@
       <selectedIndex>2</selectedIndex>
       <dividerPercentHeight>0</dividerPercentHeight>
     </control>
-    <control controlID="400CA9AC-6222-4698-88C0-7043285D4662" controlTypeID="ScrollView" x="0" y="100" w="1400" h="980" zOrder="2">
+    <control controlID="400CA9AC-6222-4698-88C0-7043285D4662" controlTypeID="ScrollView" x="0" y="100" w="1400" h="799" zOrder="2">
       <borderVisible>False</borderVisible>
       <groupChildrenDescriptors>
         <control controlID="242026F4-4282-4DBC-B9AA-2161CC19614E" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1400" h="1680" zOrder="0">
@@ -489,7 +489,7 @@
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="0C34D484-60B5-4968-A6CA-042CF5F1AEEB" controlTypeID="Label" x="68" y="10" w="153" h="43" zOrder="20">
+            <control controlID="0C34D484-60B5-4968-A6CA-042CF5F1AEEB" controlTypeID="Label" x="50" y="10" w="153" h="43" zOrder="20">
               <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91_%26_Bold+Italic" postScript="" weightStyle="" weight="700" isBold="True" isItalic="True"/>
               <text>Education</text>
               <textSize>32</textSize>
@@ -616,7 +616,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="108211EB-A32B-48D0-8EF0-3D934C483943" controlTypeID="Border" x="0" y="0" w="1400" h="980" zOrder="1">
+        <control controlID="108211EB-A32B-48D0-8EF0-3D934C483943" controlTypeID="Border" x="0" y="0" w="1400" h="799" zOrder="1">
           <color>4284900966</color>
           <borderColor>4278190080</borderColor>
           <borderVisible>False</borderVisible>

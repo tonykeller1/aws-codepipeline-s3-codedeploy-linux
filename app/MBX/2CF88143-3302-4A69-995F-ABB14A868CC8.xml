@@ -12,7 +12,7 @@
     <control controlID="44AF800D-F695-4721-BA35-C79FA80F014C" controlTypeID="Tabs" x="302" y="0" w="1043" h="100" zOrder="1">
       <borderVisible>False</borderVisible>
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+        <link targetPageID="2CF88143-3302-4A69-995F-ABB14A868CC8" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
           <area shape="0" alt="" ID="{6871F3D6-B2C7-4C6E-AEEB-3637F72CA8D4}" coords="(0,0,114.888885498047,100)"/>
         </link>
         <link targetPageID="D9007640-8658-432C-BED5-5C83CFAC8119" linkType="ltPageLink" isApplyIncludePage="False" title="Products">
@@ -24,10 +24,10 @@
         <link targetPageID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
           <area shape="0" alt="" ID="{C51E3A01-896F-46CE-82CB-B0D61FA6D6B4}" coords="(347.666656494141,0,462.555541992188,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+        <link targetPageID="A743943E-9B15-426E-8838-C9B56764CEE7" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
           <area shape="0" alt="" ID="{3CE264BC-5C01-4840-999C-77AA0F5217D0}" coords="(463.555541992188,0,578.444458007813,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+        <link targetPageID="90DE2988-E389-47C5-83BA-E31640D79FFF" linkType="ltPageLink" isApplyIncludePage="False" title="About">
           <area shape="0" alt="" ID="{D5E39962-44B2-490D-905F-03117256E2EF}" coords="(579.444458007813,0,694.333374023438,100)"/>
         </link>
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
@@ -46,7 +46,7 @@
       <lineSpacing>0</lineSpacing>
       <dividerPercentHeight>0</dividerPercentHeight>
     </control>
-    <control controlID="FABB6461-6B16-4C0F-8C00-6891D3C26A01" controlTypeID="ScrollView" x="0" y="100" w="1400" h="980" zOrder="2">
+    <control controlID="FABB6461-6B16-4C0F-8C00-6891D3C26A01" controlTypeID="ScrollView" x="0" y="100" w="1400" h="879" zOrder="2">
       <borderVisible>False</borderVisible>
       <groupChildrenDescriptors>
         <control controlID="AA14CAB7-6E7E-4513-AE00-312A0C181893" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1400" h="2207" zOrder="0">
@@ -505,7 +505,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="9CC9070C-B471-4B5B-95B5-D91E3F7B8986" controlTypeID="Border" x="0" y="0" w="1400" h="980" zOrder="1">
+        <control controlID="9CC9070C-B471-4B5B-95B5-D91E3F7B8986" controlTypeID="Border" x="0" y="0" w="1400" h="879" zOrder="1">
           <color>4284900966</color>
           <borderColor>4278190080</borderColor>
           <borderVisible>False</borderVisible>

@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="D9007640-8658-432C-BED5-5C83CFAC8119" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
-  <controls controlCount="8">
+  <controls controlCount="9">
     <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
       <caption>Logo</caption>
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
@@ -24,10 +24,10 @@
         <link targetPageID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
           <area shape="0" alt="" ID="{2DDED772-1539-45AE-96BB-E02B04B4BE77}" coords="(347.666656494141,0,462.555541992188,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+        <link targetPageID="A743943E-9B15-426E-8838-C9B56764CEE7" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
           <area shape="0" alt="" ID="{B4657C7B-3BA3-42E9-A5B8-29E215B9FC88}" coords="(463.555541992188,0,578.444458007813,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+        <link targetPageID="90DE2988-E389-47C5-83BA-E31640D79FFF" linkType="ltPageLink" isApplyIncludePage="False" title="About">
           <area shape="0" alt="" ID="{81B06994-600A-4574-8EE3-ADE317841DC0}" coords="(579.444458007813,0,694.333374023438,100)"/>
         </link>
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
@@ -47,7 +47,7 @@
       <selectedIndex>1</selectedIndex>
       <dividerPercentHeight>0</dividerPercentHeight>
     </control>
-    <control controlID="08F57125-A745-430C-A2CF-0B29D37253F4" controlTypeID="VSplitter" x="239" y="103" w="10" h="852" zOrder="2"/>
+    <control controlID="08F57125-A745-430C-A2CF-0B29D37253F4" controlTypeID="VSplitter" x="239" y="103" w="10" h="800" zOrder="2"/>
     <control controlID="F0E4A9F9-355F-47D2-855C-A9FC61561B17" controlTypeID="ScrollView" x="248" y="127" w="1067" h="776" zOrder="3">
       <groupChildrenDescriptors>
         <control controlID="0E53D830-D6FC-40B6-BB8D-6B827868F470" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1067" h="776" zOrder="0">
@@ -62,11 +62,20 @@
       </groupChildrenDescriptors>
       <canHoriScroll>True</canHoriScroll>
     </control>
-    <control controlID="BDF910FB-EC17-4390-9B1C-2F90BB4F6F30" controlTypeID="Image" x="249" y="127" w="1039" h="710" zOrder="4">
+    <control controlID="BDF910FB-EC17-4390-9B1C-2F90BB4F6F30" controlTypeID="Image" x="249" y="152" w="1039" h="710" zOrder="4">
       <URL>7F6C818D89384F1EEF1E85F6BA1EF381.JPG</URL>
     </control>
-    <control controlID="724A4B6C-1117-449D-94D2-39D07A494466" controlTypeID="Image" x="51" y="127" w="178" h="703" zOrder="5">
+    <control controlID="724A4B6C-1117-449D-94D2-39D07A494466" controlTypeID="Image" x="51" y="154" w="178" h="703" zOrder="5">
       <URL>6900676EB3BF2FDEE7174B645BE15DB6.JPG</URL>
+    </control>
+    <control controlID="092147DB-2935-4611-A130-0321A5A81D76" controlTypeID="Label" x="50" y="103" w="138" h="43" zOrder="6">
+      <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91_%26_Bold+Italic" postScript="" weightStyle="" weight="700" isBold="True" isItalic="True"/>
+      <text>Products</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsItalic]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
     </control>
   </controls>
   <param>

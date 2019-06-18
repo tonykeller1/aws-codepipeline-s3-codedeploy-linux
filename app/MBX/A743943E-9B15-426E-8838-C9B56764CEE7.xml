@@ -1,4 +1,4 @@
-﻿<mockup version="5.3" minAllowVersion="5.3" ID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A743943E-9B15-426E-8838-C9B56764CEE7" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
   <controls controlCount="10">
     <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
       <caption>Logo</caption>
@@ -27,7 +27,7 @@
         <link targetPageID="A743943E-9B15-426E-8838-C9B56764CEE7" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
           <area shape="0" alt="" ID="{C349FA38-3E25-40EA-862B-A64987B4CFA4}" coords="(463.555541992188,0,578.444458007813,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+        <link targetPageID="90DE2988-E389-47C5-83BA-E31640D79FFF" linkType="ltPageLink" isApplyIncludePage="False" title="About">
           <area shape="0" alt="" ID="{01EC4B0E-AF69-4BAB-8F91-A9621E8215DF}" coords="(579.444458007813,0,694.333374023438,100)"/>
         </link>
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
@@ -40,14 +40,72 @@
           <area shape="0" alt="" ID="{5E1A8271-7188-4E94-90B1-ED7ACA5A0FAC}" coords="(927.111206054688,0,1042.00012207031,100)"/>
         </link>
       </links>
+      <interactiveData>
+        <entry title="Dashboard">
+          <area shape="0" alt="" ID="{62EBCE3C-2C45-47A6-BEBB-A9D730762FD0}" coords="(0,0,114.888885498047,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Products">
+          <area shape="0" alt="" ID="{ABE68DF8-34FD-4DDA-A135-1D1DF9C3BE2B}" coords="(115.888885498047,0,230.777770996094,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Education">
+          <area shape="0" alt="" ID="{D9714DA0-B14F-4AD8-93E0-9A8B1D276EE9}" coords="(231.777770996094,0,346.666656494141,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Pipeline">
+          <area shape="0" alt="" ID="{4FD3547E-DE68-4F73-8F62-3FBCF66F1394}" coords="(347.666656494141,0,462.555541992188,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Holdings">
+          <area shape="0" alt="" ID="{0A59B343-3CB6-4AF7-B399-94AC7ABE54FE}" coords="(463.555541992188,0,578.444458007813,100)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="1ADC006C-0851-4038-9D79-D2339D4123A3" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="About">
+          <area shape="0" alt="" ID="{3717196C-8B6F-4D7B-8C21-A98EE403650C}" coords="(579.444458007813,0,694.333374023438,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="">
+          <area shape="0" alt="" ID="{E520AC91-DB7C-4C62-8553-F8F7E3893A90}" coords="(695.333374023438,0,810.222290039063,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="">
+          <area shape="0" alt="" ID="{973F9EB4-6C2D-4AD0-BC92-5546A39B75DA}" coords="(811.222290039063,0,926.111206054688,100)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Robert+Pereira">
+          <area shape="0" alt="" ID="{F5BD7345-9AF7-4972-A3C2-D8385737ED9F}" coords="(927.111206054688,0,1042.00012207031,100)"/>
+          <events title=""/>
+        </entry>
+      </interactiveData>
       <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="" weight="400" isBold="False" isItalic="False"/>
       <text>Dashboard%2CProducts%2CEducation%2CPipeline%2CHoldings%2CAbout%2C%2C%2CRobert+Pereira</text>
       <textSize>14</textSize>
       <lineSpacing>0</lineSpacing>
-      <selectedIndex>3</selectedIndex>
+      <selectedIndex>4</selectedIndex>
       <dividerPercentHeight>0</dividerPercentHeight>
     </control>
-    <control controlID="9B87E4BD-0ECE-4C85-8184-73FD1456A4DE" controlTypeID="ScrollView" x="0" y="100" w="1400" h="980" zOrder="2">
+    <control controlID="9B87E4BD-0ECE-4C85-8184-73FD1456A4DE" controlTypeID="ScrollView" x="0" y="100" w="1400" h="820" zOrder="2">
       <borderVisible>False</borderVisible>
       <groupChildrenDescriptors>
         <control controlID="AF3E2E95-D301-4473-AEC1-277B192927B0" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1400" h="1671" zOrder="0">
@@ -66,7 +124,7 @@
               <lineSpacing>0</lineSpacing>
               <selectedIndex>-1</selectedIndex>
             </control>
-            <control controlID="684F6D5F-BC31-4D69-9FF5-5865149ACDCE" controlTypeID="Label" x="68" y="0" w="140" h="43" zOrder="2">
+            <control controlID="684F6D5F-BC31-4D69-9FF5-5865149ACDCE" controlTypeID="Label" x="43" y="0" w="140" h="43" zOrder="2">
               <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91_%26_Bold+Italic" postScript="" weightStyle="" weight="700" isBold="True" isItalic="True"/>
               <text>Holdings</text>
               <textSize>32</textSize>
@@ -83,7 +141,7 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="96A8D372-7795-47CD-8DD6-F0183026E18B" controlTypeID="Border" x="0" y="0" w="1400" h="980" zOrder="1">
+        <control controlID="96A8D372-7795-47CD-8DD6-F0183026E18B" controlTypeID="Border" x="0" y="0" w="1400" h="820" zOrder="1">
           <color>4284900966</color>
           <borderColor>4278190080</borderColor>
           <borderVisible>False</borderVisible>

@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="B52648A3-D33B-4F85-963F-ADA5B85EA96A" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="1080" mobileScreenScale="0">
-  <controls controlCount="3">
+  <controls controlCount="4">
     <control controlID="52A1FE92-3DDD-4659-B947-1C8D56A9E965" controlTypeID="Image" x="0" y="0" w="302" h="100" zOrder="0">
       <caption>Logo</caption>
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
@@ -24,10 +24,10 @@
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Pipeline">
           <area shape="0" alt="" ID="{05819255-78D9-4076-9C6F-748822B810BA}" coords="(347.666656494141,0,462.555541992188,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
+        <link targetPageID="A743943E-9B15-426E-8838-C9B56764CEE7" linkType="ltPageLink" isApplyIncludePage="False" title="Holdings">
           <area shape="0" alt="" ID="{C349FA38-3E25-40EA-862B-A64987B4CFA4}" coords="(463.555541992188,0,578.444458007813,100)"/>
         </link>
-        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="About">
+        <link targetPageID="90DE2988-E389-47C5-83BA-E31640D79FFF" linkType="ltPageLink" isApplyIncludePage="False" title="About">
           <area shape="0" alt="" ID="{01EC4B0E-AF69-4BAB-8F91-A9621E8215DF}" coords="(579.444458007813,0,694.333374023438,100)"/>
         </link>
         <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="">
@@ -49,6 +49,15 @@
     </control>
     <control controlID="85AC0BFB-A978-4324-84DF-07502E21FC1B" controlTypeID="Image" x="15" y="110" w="1294" h="791" zOrder="2">
       <URL>5D02815D1EA0CD1C0D521B959D3D9FC8.JPG</URL>
+    </control>
+    <control controlID="47285E0B-F175-44B4-AB16-5744FCC02DE3" controlTypeID="Label" x="47" y="117" w="125" h="43" zOrder="3">
+      <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91_%26_Bold+Italic" postScript="" weightStyle="" weight="700" isBold="True" isItalic="True"/>
+      <text>Pipeline</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsItalic]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
     </control>
   </controls>
   <param>
